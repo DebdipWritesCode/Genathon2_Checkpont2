@@ -1,5 +1,5 @@
 # Checkpoint 1
 
-### GitHub link:
+### GitHub link: https://github.com/marvillage/Marvinthon
 
-### Team Name: 
+### Team Name: Marvinthon
