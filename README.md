@@ -1,5 +1,5 @@
 # Checkpoint 1
 
-### GitHub link:
+### GitHub link:https://github.com/imsoul11/Genathon
 
-### Team Name: 
+### Team Name: Innov8Nerds
