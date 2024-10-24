@@ -1,5 +1,5 @@
-# Checkpoint 1
+# Checkpoint 2
 
-### GitHub link:
+### GitHub link: https://github.com/Asim-Shah-2004/genathon
 
-### Team Name: 
+### Team Name: Init.io
