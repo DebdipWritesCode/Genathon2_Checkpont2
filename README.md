@@ -1,5 +1,5 @@
 # Checkpoint 1
 
-## GitHub link:
+### GitHub link:
 
-## Team Name: 
+### Team Name: 
