@@ -1,5 +1,5 @@
 # Checkpoint 1
 
-### GitHub link:
+### GitHub link:https://github.com/vishwajeet1729/genathon
 
-### Team Name: 
+### Team Name: CharDotMinar
