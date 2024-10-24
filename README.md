@@ -1,5 +1,5 @@
 # Checkpoint 1
 
-### GitHub link:
+### GitHub link: https://github.com/rishabhgokhe/Gen-A-Thon
 
-### Team Name: 
+### Team Name: Aarambh
