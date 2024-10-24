@@ -1,5 +1,5 @@
 # Checkpoint 1
 
-### GitHub link:
+### GitHub link: https://github.com/iamyuviii/genethonfront.git
 
-### Team Name: 
+### Team Name: Initiators
