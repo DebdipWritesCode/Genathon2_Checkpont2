@@ -1,5 +1,5 @@
 # Checkpoint 1
 
-### GitHub link:
+### GitHub link:https://github.com/anujsoni3/DashboardGENATHON
 
-### Team Name: 
+### Team Name: One and Zero
